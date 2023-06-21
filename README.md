@@ -26,7 +26,7 @@ The identification of diphthongs and monophthongs is based on a combination of a
 The code is organized into different scripts for data preprocessing and classification.
 
 * `division.ipynb` is responsible for cutting vowels out from marked words
-* `changepoint analysis.ipynb` is responsible for ROC, changepoint and trajectory length classification and visualization
+* `ROC_TL_changepoint.ipynb` is responsible for ROC, changepoint and trajectory length classification and visualization
 * `cepstral_coefficients.ipynb` is responsible for the classification based on cepstral coefficients
 
 `divided` folder contains the data on each language
